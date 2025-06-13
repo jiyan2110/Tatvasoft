@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dave\\Desktop\\jiyan\\Book Management CRUD\\Book Management CRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD09CAA0-E664-2D21-BF49-618F5E65CCF6}|Book Management CRUD.csproj|c:\\users\\dave\\desktop\\jiyan\\book management crud\\book management crud\\controllers\\missionapplicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD09CAA0-E664-2D21-BF49-618F5E65CCF6}|Book Management CRUD.csproj|solutionrelative:controllers\\missionapplicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD09CAA0-E664-2D21-BF49-618F5E65CCF6}|Book Management CRUD.csproj|c:\\users\\dave\\desktop\\jiyan\\book management crud\\book management crud\\controllers\\missionthemecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD09CAA0-E664-2D21-BF49-618F5E65CCF6}|Book Management CRUD.csproj|solutionrelative:controllers\\missionthemecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD09CAA0-E664-2D21-BF49-618F5E65CCF6}|Book Management CRUD.csproj|c:\\users\\dave\\desktop\\jiyan\\book management crud\\book management crud\\models\\missiontheme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD09CAA0-E664-2D21-BF49-618F5E65CCF6}|Book Management CRUD.csproj|solutionrelative:models\\missiontheme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD09CAA0-E664-2D21-BF49-618F5E65CCF6}|Book Management CRUD.csproj|c:\\users\\dave\\desktop\\jiyan\\book management crud\\book management crud\\data\\bookcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD09CAA0-E664-2D21-BF49-618F5E65CCF6}|Book Management CRUD.csproj|solutionrelative:data\\bookcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD09CAA0-E664-2D21-BF49-618F5E65CCF6}|Book Management CRUD.csproj|c:\\users\\dave\\desktop\\jiyan\\book management crud\\book management crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD09CAA0-E664-2D21-BF49-618F5E65CCF6}|Book Management CRUD.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD09CAA0-E664-2D21-BF49-618F5E65CCF6}|Book Management CRUD.csproj|c:\\users\\dave\\desktop\\jiyan\\book management crud\\book management crud\\models\\missionapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD09CAA0-E664-2D21-BF49-618F5E65CCF6}|Book Management CRUD.csproj|solutionrelative:models\\missionapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD09CAA0-E664-2D21-BF49-618F5E65CCF6}|Book Management CRUD.csproj|c:\\users\\dave\\desktop\\jiyan\\book management crud\\book management crud\\services\\missionapplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD09CAA0-E664-2D21-BF49-618F5E65CCF6}|Book Management CRUD.csproj|solutionrelative:services\\missionapplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MissionThemeController.cs",
+              "DocumentMoniker": "C:\\Users\\Dave\\Desktop\\jiyan\\Book Management CRUD\\Book Management CRUD\\Controllers\\MissionThemeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MissionThemeController.cs",
+              "ToolTip": "C:\\Users\\Dave\\Desktop\\jiyan\\Book Management CRUD\\Book Management CRUD\\Controllers\\MissionThemeController.cs",
+              "RelativeToolTip": "Controllers\\MissionThemeController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCMAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T07:39:13.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MissionTheme.cs",
+              "DocumentMoniker": "C:\\Users\\Dave\\Desktop\\jiyan\\Book Management CRUD\\Book Management CRUD\\Models\\MissionTheme.cs",
+              "RelativeDocumentMoniker": "Models\\MissionTheme.cs",
+              "ToolTip": "C:\\Users\\Dave\\Desktop\\jiyan\\Book Management CRUD\\Book Management CRUD\\Models\\MissionTheme.cs",
+              "RelativeToolTip": "Models\\MissionTheme.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T07:36:19.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookContext.cs",
+              "DocumentMoniker": "C:\\Users\\Dave\\Desktop\\jiyan\\Book Management CRUD\\Book Management CRUD\\Data\\BookContext.cs",
+              "RelativeDocumentMoniker": "Data\\BookContext.cs",
+              "ToolTip": "C:\\Users\\Dave\\Desktop\\jiyan\\Book Management CRUD\\Book Management CRUD\\Data\\BookContext.cs",
+              "RelativeToolTip": "Data\\BookContext.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwAUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T07:31:40.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dave\\Desktop\\jiyan\\Book Management CRUD\\Book Management CRUD\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Dave\\Desktop\\jiyan\\Book Management CRUD\\Book Management CRUD\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAB0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T06:50:32.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MissionApplicationController.cs",
+              "DocumentMoniker": "C:\\Users\\Dave\\Desktop\\jiyan\\Book Management CRUD\\Book Management CRUD\\Controllers\\MissionApplicationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MissionApplicationController.cs",
+              "ToolTip": "C:\\Users\\Dave\\Desktop\\jiyan\\Book Management CRUD\\Book Management CRUD\\Controllers\\MissionApplicationController.cs",
+              "RelativeToolTip": "Controllers\\MissionApplicationController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAA6wC8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T06:46:42.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MissionApplication.cs",
+              "DocumentMoniker": "C:\\Users\\Dave\\Desktop\\jiyan\\Book Management CRUD\\Book Management CRUD\\Models\\MissionApplication.cs",
+              "RelativeDocumentMoniker": "Models\\MissionApplication.cs",
+              "ToolTip": "C:\\Users\\Dave\\Desktop\\jiyan\\Book Management CRUD\\Book Management CRUD\\Models\\MissionApplication.cs",
+              "RelativeToolTip": "Models\\MissionApplication.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T06:38:37.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MissionApplicationService.cs",
+              "DocumentMoniker": "C:\\Users\\Dave\\Desktop\\jiyan\\Book Management CRUD\\Book Management CRUD\\Services\\MissionApplicationService.cs",
+              "RelativeDocumentMoniker": "Services\\MissionApplicationService.cs",
+              "ToolTip": "C:\\Users\\Dave\\Desktop\\jiyan\\Book Management CRUD\\Book Management CRUD\\Services\\MissionApplicationService.cs",
+              "RelativeToolTip": "Services\\MissionApplicationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T06:31:07.726Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
