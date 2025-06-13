@@ -1,0 +1,419 @@
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\appsettings.Development.json
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\appsettings.json
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Book Management CRUD.staticwebassets.endpoints.json
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Book Management CRUD.exe
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Book Management CRUD.deps.json
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Book Management CRUD.runtimeconfig.json
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Book Management CRUD.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Book Management CRUD.pdb
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\obj\Debug\net8.0\Book Management CRUD.csproj.AssemblyReference.cache
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\obj\Debug\net8.0\Book Management CRUD.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\obj\Debug\net8.0\Book Management CRUD.AssemblyInfoInputs.cache
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\obj\Debug\net8.0\Book Management CRUD.AssemblyInfo.cs
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\obj\Debug\net8.0\Book Management CRUD.csproj.CoreCompileInputs.cache
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\obj\Debug\net8.0\Book Management CRUD.MvcApplicationPartsAssemblyInfo.cs
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\obj\Debug\net8.0\Book Management CRUD.MvcApplicationPartsAssemblyInfo.cache
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\obj\Debug\net8.0\Book Management CRUD.sourcelink.json
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\obj\Debug\net8.0\scopedcss\bundle\Book Management CRUD.styles.css
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\obj\Debug\net8.0\staticwebassets.build.json
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\obj\Debug\net8.0\staticwebassets.build.json.cache
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\obj\Debug\net8.0\staticwebassets.development.json
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\obj\Debug\net8.0\Book Man.CF905A23.Up2Date
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\obj\Debug\net8.0\Book Management CRUD.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\obj\Debug\net8.0\refint\Book Management CRUD.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\obj\Debug\net8.0\Book Management CRUD.pdb
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\obj\Debug\net8.0\Book Management CRUD.genruntimeconfig.cache
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\obj\Debug\net8.0\ref\Book Management CRUD.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Humanizer.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Npgsql.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\System.CodeDom.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\System.IO.Pipelines.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\System.Text.Json.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Tatvasoft\Day3\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\appsettings.Development.json
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\appsettings.json
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Book Management CRUD.staticwebassets.endpoints.json
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Book Management CRUD.exe
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Book Management CRUD.deps.json
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Book Management CRUD.runtimeconfig.json
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Book Management CRUD.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Book Management CRUD.pdb
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Humanizer.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Npgsql.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\System.CodeDom.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\System.IO.Pipelines.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\System.Text.Json.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\obj\Debug\net8.0\Book Management CRUD.csproj.AssemblyReference.cache
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\obj\Debug\net8.0\Book Management CRUD.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\obj\Debug\net8.0\Book Management CRUD.AssemblyInfoInputs.cache
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\obj\Debug\net8.0\Book Management CRUD.AssemblyInfo.cs
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\obj\Debug\net8.0\Book Management CRUD.csproj.CoreCompileInputs.cache
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\obj\Debug\net8.0\Book Management CRUD.MvcApplicationPartsAssemblyInfo.cs
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\obj\Debug\net8.0\Book Management CRUD.MvcApplicationPartsAssemblyInfo.cache
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\obj\Debug\net8.0\Book Management CRUD.sourcelink.json
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\obj\Debug\net8.0\scopedcss\bundle\Book Management CRUD.styles.css
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\obj\Debug\net8.0\staticwebassets.build.json
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\obj\Debug\net8.0\staticwebassets.build.json.cache
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\obj\Debug\net8.0\staticwebassets.development.json
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\obj\Debug\net8.0\Book Man.CF905A23.Up2Date
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\obj\Debug\net8.0\Book Management CRUD.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\obj\Debug\net8.0\refint\Book Management CRUD.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\obj\Debug\net8.0\Book Management CRUD.pdb
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\obj\Debug\net8.0\Book Management CRUD.genruntimeconfig.cache
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\obj\Debug\net8.0\ref\Book Management CRUD.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\BCrypt.Net-Next.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Tatvasoft\From Day3 - Day15\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\obj\Debug\net8.0\Book Management CRUD.csproj.AssemblyReference.cache
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\obj\Debug\net8.0\Book Management CRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\obj\Debug\net8.0\Book Management CRUD.AssemblyInfoInputs.cache
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\obj\Debug\net8.0\Book Management CRUD.AssemblyInfo.cs
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\obj\Debug\net8.0\Book Management CRUD.csproj.CoreCompileInputs.cache
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\obj\Debug\net8.0\Book Management CRUD.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\obj\Debug\net8.0\Book Management CRUD.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\appsettings.json
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Book Management CRUD.staticwebassets.endpoints.json
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Book Management CRUD.exe
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Book Management CRUD.deps.json
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Book Management CRUD.runtimeconfig.json
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Book Management CRUD.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Book Management CRUD.pdb
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Npgsql.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\obj\Debug\net8.0\scopedcss\bundle\Book Management CRUD.styles.css
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\obj\Debug\net8.0\Book Man.CF905A23.Up2Date
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\obj\Debug\net8.0\Book Management CRUD.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\obj\Debug\net8.0\refint\Book Management CRUD.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\obj\Debug\net8.0\Book Management CRUD.pdb
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\obj\Debug\net8.0\Book Management CRUD.genruntimeconfig.cache
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\obj\Debug\net8.0\ref\Book Management CRUD.dll
+C:\Users\Dave\Desktop\jiyan\Book Management CRUD\Book Management CRUD\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
