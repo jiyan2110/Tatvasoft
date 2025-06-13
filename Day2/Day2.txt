@@ -1,0 +1,20 @@
+ng v
+ng new Tatvasoft
+ng serve
+
+
+in src -> app -> 4 files explore
+variables in ts and html
+functions in ts and html
+eventlisteners in ts and html
+
+ng if, ng for, ng switch
+
+npm install bootstrap
+update package.json and angular.json
+use bootstrap button
+
+two way binding in ng
+
+making componenets in src
+ng g c 
