@@ -1,10 +1,7 @@
+# Virtual Community Support Platform
 
-```markdown
-# 🌐 Virtual Community Support Platform
+A full-stack web application built during a 15-day summer internship program (2025) to manage community missions. It supports user registration, role-based login, mission application, and admin management of missions, themes, skills, and users.
 
-A full-stack web application designed to support and manage community service missions virtually. This platform allows users to register, apply for missions, and manage profiles, while administrators can handle CRUD operations for missions, themes, skills, and applications.
-
----
 
 ## 📌 Table of Contents
 
@@ -15,114 +12,101 @@ A full-stack web application designed to support and manage community service mi
 - [Getting Started](#getting-started)
 - [API Overview](#api-overview)
 
----
 
 ## 🧩 About the Project
 
-**Virtual Community Support** is a full-stack platform created as part of a 15-day summer internship program (2025). The application promotes volunteer missions and community engagement by enabling user login, mission browsing, applying to missions, and profile management. Admins can manage users, missions, and more through a secure API.
+**Virtual Community Support** is a full-stack platform that connects volunteers with community service missions. It allows users to browse, apply, and manage missions, while admins can control mission-related data securely using a role-based API.
 
----
 
 ## ✨ Features
 
 ### 👤 User
-- Login and registration
+
+- Login and Registration
 - Role-based access (User/Admin)
-- View and apply to missions
+- View and apply for missions
 - View applied missions
 - Edit profile
 
 ### 🛠️ Admin
-- User Management
-- Mission CRUD
-- Mission Theme CRUD
-- Mission Skill CRUD
-- Mission Application Management
-- Role-based authentication and access
 
----
+- Manage users
+- CRUD for missions, themes, and skills
+- Review and manage mission applications
+- Role-based authorization and data access
+
 
 ## 🔧 Tech Stack
 
-### Frontend
-- Angular (v14+)
-- TypeScript
+**Frontend**  
+- Angular (v14+)  
+- TypeScript  
 - Bootstrap/CSS
 
-### Backend
-- ASP.NET Core Web API (6.0+)
-- Entity Framework Core (Code First)
+**Backend**  
+- ASP.NET Core Web API (6.0+)  
+- Entity Framework Core (Code First)  
 - LINQ
 
-### Database
+**Database**  
 - PostgreSQL
 
-### Dev Tools
-- Swagger (API Documentation)
+**Development Tools**  
+- Swagger (API Docs)  
 - GitHub (Version Control)
 
----
 
 ## 📁 Project Structure
 
-### Backend (.NET Web API)
+### Backend (.NET API)
 
 ```
-
 /VirtualCommunitySupport.API
-│
 ├── Controllers/
 ├── Models/
 ├── Data/
 ├── Repository/
 ├── Migrations/
 ├── Program.cs
-├── appsettings.json
-└── Startup.cs
-
+├── Startup.cs
+└── appsettings.json
 ```
-
 ### Frontend (Angular)
 
 ```
-
 /VirtualCommunitySupport.UI
-│
 ├── src/
 │   ├── app/
 │   │   ├── components/
 │   │   ├── services/
 │   │   ├── models/
-│   │   ├── guards/
+│   │   └── guards/
 │   ├── assets/
 │   ├── environments/
 │   └── index.html
-
-````
-
----
-
+```
 ## 🚀 Getting Started
 
 ### Prerequisites
 
 - [.NET 6 SDK](https://dotnet.microsoft.com/download)
-- [Node.js + Angular CLI](https://angular.io/cli)
-- [PostgreSQL](https://www.postgresql.org/download/)
-- Visual Studio / VS Code
+- [Node.js](https://nodejs.org/) and Angular CLI
+- [PostgreSQL](https://www.postgresql.org/)
+- Visual Studio or VS Code
+
 
 ### Backend Setup
 
 ```bash
 cd VirtualCommunitySupport.API
 
-# Install dependencies
+# Restore packages
 dotnet restore
 
-# Update database
+# Apply migrations to create DB
 dotnet ef database update
 
-# Run the API
+# Run API
 dotnet run
 ````
 
@@ -138,10 +122,9 @@ npm install
 ng serve --open
 ```
 
-### PostgreSQL DB Setup
+### PostgreSQL Configuration
 
-* Create a PostgreSQL database (e.g., `VCS_DB`)
-* Update connection string in `appsettings.json`:
+Create a database (e.g. `VCS_DB`) and update `appsettings.json`:
 
 ```json
 "ConnectionStrings": {
@@ -149,22 +132,15 @@ ng serve --open
 }
 ```
 
----
-
 ## 📬 API Overview
 
-* **/api/Auth/login** - User login
-* **/api/User** - User CRUD
-* **/api/Mission** - Mission CRUD
-* **/api/Theme** - Theme CRUD
-* **/api/Skill** - Skill CRUD
-* **/api/MissionApplication** - Apply / view applications
+Use Swagger at `/swagger` to explore the API.
 
-Use Swagger (`/swagger`) to explore all available endpoints and test API calls.
-
----
-
-```
-
-Let me know if you’d like this content saved into a file or automatically formatted and pushed to your GitHub repo.
-```
+| Endpoint                       | Description         |
+| ------------------------------ | ------------------- |
+| `POST /api/Auth/login`         | User login          |
+| `GET /api/User`                | List users          |
+| `GET /api/Mission`             | List missions       |
+| `GET /api/Theme`               | List mission themes |
+| `GET /api/Skill`               | List mission skills |
+| `POST /api/MissionApplication` | Apply to mission    |
