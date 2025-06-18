@@ -1,59 +1,170 @@
-# BookManagementFrontend
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.0.0.
+```markdown
+# 🌐 Virtual Community Support Platform
 
-## Development server
+A full-stack web application designed to support and manage community service missions virtually. This platform allows users to register, apply for missions, and manage profiles, while administrators can handle CRUD operations for missions, themes, skills, and applications.
 
-To start a local development server, run:
+---
 
-```bash
-ng serve
+## 📌 Table of Contents
+
+- [About the Project](#about-the-project)
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Project Structure](#project-structure)
+- [Getting Started](#getting-started)
+- [API Overview](#api-overview)
+
+---
+
+## 🧩 About the Project
+
+**Virtual Community Support** is a full-stack platform created as part of a 15-day summer internship program (2025). The application promotes volunteer missions and community engagement by enabling user login, mission browsing, applying to missions, and profile management. Admins can manage users, missions, and more through a secure API.
+
+---
+
+## ✨ Features
+
+### 👤 User
+- Login and registration
+- Role-based access (User/Admin)
+- View and apply to missions
+- View applied missions
+- Edit profile
+
+### 🛠️ Admin
+- User Management
+- Mission CRUD
+- Mission Theme CRUD
+- Mission Skill CRUD
+- Mission Application Management
+- Role-based authentication and access
+
+---
+
+## 🔧 Tech Stack
+
+### Frontend
+- Angular (v14+)
+- TypeScript
+- Bootstrap/CSS
+
+### Backend
+- ASP.NET Core Web API (6.0+)
+- Entity Framework Core (Code First)
+- LINQ
+
+### Database
+- PostgreSQL
+
+### Dev Tools
+- Swagger (API Documentation)
+- GitHub (Version Control)
+
+---
+
+## 📁 Project Structure
+
+### Backend (.NET Web API)
+
 ```
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+/VirtualCommunitySupport.API
+│
+├── Controllers/
+├── Models/
+├── Data/
+├── Repository/
+├── Migrations/
+├── Program.cs
+├── appsettings.json
+└── Startup.cs
 
-## Code scaffolding
-
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
-
-```bash
-ng generate component component-name
 ```
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
+### Frontend (Angular)
 
-```bash
-ng generate --help
 ```
 
-## Building
+/VirtualCommunitySupport.UI
+│
+├── src/
+│   ├── app/
+│   │   ├── components/
+│   │   ├── services/
+│   │   ├── models/
+│   │   ├── guards/
+│   ├── assets/
+│   ├── environments/
+│   └── index.html
 
-To build the project run:
+````
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- [.NET 6 SDK](https://dotnet.microsoft.com/download)
+- [Node.js + Angular CLI](https://angular.io/cli)
+- [PostgreSQL](https://www.postgresql.org/download/)
+- Visual Studio / VS Code
+
+### Backend Setup
 
 ```bash
-ng build
-```
+cd VirtualCommunitySupport.API
 
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
+# Install dependencies
+dotnet restore
 
-## Running unit tests
+# Update database
+dotnet ef database update
 
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
+# Run the API
+dotnet run
+````
 
-```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
+### Frontend Setup
 
 ```bash
-ng e2e
+cd VirtualCommunitySupport.UI
+
+# Install dependencies
+npm install
+
+# Run Angular app
+ng serve --open
 ```
 
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
+### PostgreSQL DB Setup
 
-## Additional Resources
+* Create a PostgreSQL database (e.g., `VCS_DB`)
+* Update connection string in `appsettings.json`:
 
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+```json
+"ConnectionStrings": {
+  "DefaultConnection": "Host=localhost;Database=VCS_DB;Username=postgres;Password=yourpassword"
+}
+```
+
+---
+
+## 📬 API Overview
+
+* **/api/Auth/login** - User login
+* **/api/User** - User CRUD
+* **/api/Mission** - Mission CRUD
+* **/api/Theme** - Theme CRUD
+* **/api/Skill** - Skill CRUD
+* **/api/MissionApplication** - Apply / view applications
+
+Use Swagger (`/swagger`) to explore all available endpoints and test API calls.
+
+---
+
+```
+
+Let me know if you’d like this content saved into a file or automatically formatted and pushed to your GitHub repo.
+```
